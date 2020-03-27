@@ -92,10 +92,12 @@ section h2 {
   text-transform: uppercase;
 }
 
+/*
 #mainNav .navbar-nav > li > a.active {
   color: #fdcc52 !important;
   background-color: transparent;
 }
+*/
 
 #mainNav .navbar-nav > li > a.active:hover {
   background-color: transparent;
@@ -451,4 +453,9 @@ section.cta .badges .badge-link img {
 
 .about h2 {
   color: #fff;
+}
+
+section.about .feature-item {
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
