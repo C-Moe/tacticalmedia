@@ -349,6 +349,7 @@ footer {
 footer p {
   font-size: 12px;
   margin: 0;
+  color: rgba(255, 255, 255, 0.3);
 }
 
 footer ul {
@@ -435,3 +436,15 @@ footer ul li img {
   width: 300px;
   padding: 0px 50px 0px 50px;
 }
+
+footer #disclaimer {
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.about-fact p {
+  font-size: 16px;
+  margin-left: 15px;
+}
+
